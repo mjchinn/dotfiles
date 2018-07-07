@@ -1,0 +1,36 @@
+[submodule "vim-ctrlp"]
+	path = vim/vim/bundle/vim-ctrlp
+	url = git://github.com/kien/ctrlp.vim.git
+[submodule "vim-fugative"]
+	path = vim/vim/bundle/vim-fugative
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "vim-airline"]
+	path = vim/vim/bundle/vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "vim-flavored-markdown"]
+	path = vim/vim/bundle/vim-flavored-markdown
+	url = https://github.com/jtratner/vim-flavored-markdown.git
+[submodule "vim/vim/pack/mjc/start/tcomment"]
+	path = vim/vim/pack/mjc/start/tcomment
+	url = https://github.com/tomtom/tcomment_vim.git
+[submodule "vim/vim/pack/mjc/start/surround"]
+	path = vim/vim/pack/mjc/start/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "vim/vim/pack/mjc/start/fugitive"]
+	path = vim/vim/pack/mjc/start/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "vim/vim/pack/mjc/start/flavored-markdown"]
+	path = vim/vim/pack/mjc/start/flavored-markdown
+	url = https://github.com/jtratner/vim-flavored-markdown.git
+[submodule "vim/vim/pack/mjc/start/airline"]
+	path = vim/vim/pack/mjc/start/airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vim/vim/pack/mjc/start/ctrlp"]
+	path = vim/vim/pack/mjc/start/ctrlp
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "vim/vim/pack/mjc/start/gitgutter"]
+	path = vim/vim/pack/mjc/start/gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "vim/vim/pack/mjc/start/colors-solarized"]
+	path = vim/vim/pack/mjc/start/colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
