@@ -1,0 +1,5 @@
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+export CLICOLOR=1
+
+function mikrotik-export () { ssh $1 export | perl -e 'while(defined($l=<>)){$l=~s/\r\n$//;if($l=~s/\\$//){$n=<>;$n=~s/^\s+//;$l.=$n;redo unless eof}print "$l\n"}'; }
